@@ -1,0 +1,73 @@
+#criar{
+    background-color: #41384B;
+    width: 450px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 15px 15px 13px rgba(0, 0, 0, 0.23);
+}
+
+#divisao{
+    
+    width: 50.5%;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+    text-align: start;
+}
+#div{
+    
+    width: 59.8%;
+    height: 65px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+    text-align: start;
+}
+#div1{
+    width: 90%;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div2{
+    
+    width: 55%;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#div0{
+    display: flex;
+    width: 63%;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content:center;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+#input-login{
+    border: 1px solid #C1C1C1;
+    outline: none;
+    width: 268px;
+    height: 33px;  
+    border-radius: 15px;
+}
+#sub-title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 110%;
+    color: #82869A;
+    
+}
+::-webkit-input-placeholder  { color:#a5a4a4; text-align: start; }

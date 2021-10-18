@@ -1,0 +1,293 @@
+#fundo-login{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+#login{
+    background-color: #41384B;
+    width: 450px;
+    height: 450px;
+    border-radius: 15px;
+    box-shadow: 15px 15px 13px rgba(0, 0, 0, 0.23);
+}
+#divisa01{
+    display: flex;
+    width: 75%;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content:center;
+    align-items: center;
+    margin-top: 10px;
+}
+#title0{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 24px;
+    color: rgb(21, 177, 21);
+}
+#divisa02{
+    
+    width: 59.8%;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+    text-align: start;
+}
+#divisa03{
+    
+    width: 59.8%;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+    text-align: start;
+}
+#sub-titlee{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 110%;
+    color: #ffffff;
+    
+}
+#input-login0{
+    border: 1px solid #C1C1C1;
+    outline: none;
+    width: 268px;
+    height: 33px;  
+    border-radius: 15px;
+}
+::-webkit-input-placeholder  { color:#a5a4a4; text-align: start; }
+
+#sub{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 110%;
+    color: rgb(21, 177, 21);
+}
+#divisao4{
+   
+    width: 50%;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#divisao5{
+   
+    width: 90%;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#btn-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 153px;
+    height: 38px;
+    background: rgb(21, 177, 21);
+    border-radius: 15px;
+    color: white;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    border: none;
+}
+#sub-title2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 110%;
+    color: rgb(21, 177, 21);
+    
+}
+#link{
+    text-decoration: none;
+}
+#divisao6{
+    width: 58%;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+#logo{
+    width: 65px;
+    height: 65px;
+    
+}
+#divisao7{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 58%;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+@media (max-width:767px){
+    #fundo-login{
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+    }
+    #login{
+        background-color: #41384B;
+        width: 90%;
+        height: 450px;
+        border-radius: 15px;
+        box-shadow: 15px 15px 13px rgba(0, 0, 0, 0.23);
+    }
+    #divisa01{
+        display: flex;
+        width: 75%;
+        height: 70px;
+        margin-left: auto;
+        margin-right: auto;
+        justify-content:center;
+        align-items: center;
+        margin-top: 10px;
+    }
+    #title0{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 23px;
+        line-height: 24px;
+        color: rgb(21, 177, 21);
+    }
+    #divisa02{
+        
+        width: 59.8%;
+        height: 80px;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 30px;
+        text-align: start;
+    }
+    #divisa03{
+        
+        width: 59.8%;
+        height: 90px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 30px;
+        text-align: start;
+    }
+    #sub-titlee{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 110%;
+        color: #ffffff;
+        
+    }
+    #input-login0{
+        border: 1px solid #C1C1C1;
+        outline: none;
+        width: 95%;
+        height: 33px;  
+        border-radius: 15px;
+    }
+    ::-webkit-input-placeholder  { color:#a5a4a4; text-align: start; }
+    
+    #sub{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 110%;
+        color: rgb(21, 177, 21);
+    }
+    #divisao4{
+       
+        width: 50%;
+        height: 30px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #divisao5{
+       
+        width: 90%;
+        height: 80px;
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #btn-login{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 153px;
+        height: 38px;
+        background: rgb(21, 177, 21);
+        border-radius: 15px;
+        color: white;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 16px;
+        border: none;
+    }
+    #sub-title2{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 110%;
+        color: rgb(21, 177, 21);
+        
+    }
+    #link{
+        text-decoration: none;
+    }
+    #divisao6{
+        width: 58%;
+        height: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+    }
+    #logo{
+        width: 65px;
+        height: 65px;
+        
+    }
+    #divisao7{
+        
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 58%;
+        height: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 10px;
+    }
+}
